@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Singh</h1>
 <h3 align="center">A passionate Data Science and Machine Learning enthusiast from India.</h3>
 
-- 🔭 Currently building [ComposAI](https://github.com/metechmohit/composai)
+- 🔭 Currently building [ComposAI](https://composai.tech/)
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow,**
 
